@@ -11,17 +11,9 @@ Is there a certain combination of categorical advantages that gives an attacker 
 What is the most important categorical advantage? What is the least important?
  Are there relatively new/recent technologies that have changed the ratio of advantages that constitutes a ‘sure thing’? Does a ‘sure thing’ exist at all?
 
-Known Issues/Challenges: 
-The data will need to be ‘put together’. There are a number of ‘main’ tables, as well as several ‘lookup’ tables with information for the former.
-The data does not include any information past 1973 -- can I find some elsewhere?
-It may prove to be challenging to identify trends on the earlier, less complete data.
+I answered these questions, and created tools to help navigate the CDB90 dataset. The presentation can be found on Tableau Public by clicking the link below.
 
-Schedule:
-Get the Data -- Complete
-Clean and Explore the Data -- June 5
-Create Presentation -- June 18
-Internal Demo -- June 19
-Demo Day -- 
+https://public.tableau.com/profile/mikeschriefer#!/vizhome/Battles_15923266800180/Story1
 
 
 # battles
